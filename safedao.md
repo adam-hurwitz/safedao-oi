@@ -11,7 +11,7 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
 
 #### Mission
 
-- Bring digital ownership for everyone by building a universal and open smart contract standard for custody of digital assets, data, and identity.
+- Bring digital ownership to everyone by building a universal and open smart contract standard for custody of digital assets, data, and identity with the [Safe](https://docs.google.com/document/d/1IiCJ2WESRO23kNCxWRKTz3nVysqOBuxnmuIVTL9JK04/edit#heading=h.e63zvmii9ax5) ecosystem.
 - [Constitution](https://forum.gnosis-safe.io/t/discussion-safedao-constitution/1749/1) (Draft 2023-01-05)
 
 #### Community
@@ -107,7 +107,6 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
     - Built *by [flipsidecrypto](https://twitter.com/flipsidecrypto)*
     - Issue: [Cannot find address or ENS name in the dashboard 2022-12-18](https://forum.gnosis-safe.io/t/safedao-governance-dashboard/1946/8?u=adamhurwitz.eth)
 - See specific snapshot, e.g. [SEP #1: SafeDAO Participation Agreement](https://snapshot.org/#/safe.eth/proposal/0x87c8091b5edc2cb489cc0f4231c8b675dbb1b11aa42c260c81ead9cf312f193f) > *Votes* section > Search for your delegates ENS domain or ETH address
-
 
 <p style="text-align: center; font-style: italic">This content is not financial, technical, or legal advice. Always consult a financial professional and do your own research.</p>
 
