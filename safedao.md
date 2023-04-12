@@ -1,6 +1,6 @@
 ---
 title: 🔰 SafeDAO
-tags: Safe
+tags: safe
 description: Digital ownership for everyone
 image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
 ---
@@ -107,6 +107,54 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
     - Built *by [flipsidecrypto](https://twitter.com/flipsidecrypto)*
     - Issue: [Cannot find address or ENS name in the dashboard 2022-12-18](https://forum.gnosis-safe.io/t/safedao-governance-dashboard/1946/8?u=adamhurwitz.eth)
 - See specific snapshot, e.g. [SEP #1: SafeDAO Participation Agreement](https://snapshot.org/#/safe.eth/proposal/0x87c8091b5edc2cb489cc0f4231c8b675dbb1b11aa42c260c81ead9cf312f193f) > *Votes* section > Search for your delegates ENS domain or ETH address
+
+# Safe Grants Program (SGP)
+
+*See [[Discussion] Safe Grants Program (SGP)](https://forum.gnosis-safe.io/t/discussion-safe-grants-program-sgp/3213) on SafeDAO forum 2023-04-12*
+
+## About
+
+- Mission
+    - Build a community of contributors through funding ideas, projects, and integrations
+    - Not for driving SAFE token utility (Structure in-progress by the SafeDAO)
+- Funding: $1mm total
+    - Funded by the [Safe Ecosystem Foundation (SEF)](#Safe-Ecosystem-Foundation-SEF)
+
+## Wave 1
+
+#### About
+
+- Funding: $500k
+    - Paid in fiat or USDC
+    - Potential for SAFE payments post-transferability
+- Duration: 6 months
+    - 24 weeks
+        - 18 weeks operations
+        - 6 weeks review
+- Grants organized by categories
+
+#### Categories
+
+- Build (~40% fund allocation)
+- Growth (~30% fund allocation)
+- Research (~20% fund allocation)
+- Govern (~10% fund allocation)
+
+#### Applications
+
+- Number of grants: ~30
+- Grant size: $5-50k
+    - Up-front payments
+        - May request an initial amount.
+        - Cannot exceed 20% of the total requested amount (Unless the grant is < 3 months)
+- Published on the SafeDAO forum
+- Timelines
+    - Reviewed weekly
+    - Approved monthly
+- Milestones required
+    - Tracks the progress of the grant
+    - *Benchmark* milestones: Progress
+    - *Critical* milestones: Outcomes
 
 <p style="text-align: center; font-style: italic">This content is not financial, technical, or legal advice. Always consult a financial professional and do your own research.</p>
 
