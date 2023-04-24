@@ -108,7 +108,7 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
     - Issue: [Cannot find address or ENS name in the dashboard 2022-12-18](https://forum.gnosis-safe.io/t/safedao-governance-dashboard/1946/8?u=adamhurwitz.eth)
 - See specific snapshot, e.g. [SEP #1: SafeDAO Participation Agreement](https://snapshot.org/#/safe.eth/proposal/0x87c8091b5edc2cb489cc0f4231c8b675dbb1b11aa42c260c81ead9cf312f193f) > *Votes* section > Search for your delegates ENS domain or ETH address
 
-# Safe Grants Program (SGP)
+# Safe Grants Program (SGP) (*Draft*)
 
 *See [[Discussion] Safe Grants Program (SGP)](https://forum.gnosis-safe.io/t/discussion-safe-grants-program-sgp/3213) on SafeDAO forum 2023-04-12*
 
