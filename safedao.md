@@ -122,7 +122,7 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
 
 ## Wave 1
 
-#### About
+### About
 
 - Funding: $500k
     - Paid in fiat or USDC
@@ -133,17 +133,29 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
         - 6 weeks review
 - Grants organized by categories
 
-#### Categories
+### Categories
 
 - Build (~40% fund allocation)
 - Growth (~30% fund allocation)
 - Research (~20% fund allocation)
 - Govern (~10% fund allocation)
 
-#### Applications
+### Applications
+
+#### Community reviewers
+
+- 3 roles available
+- Time commitment: 10 hours per week
+- Compensation
+    - $2,000 USDC per month
+    - SAFE token retroactive grant to be determined 
+
+#### Grants
 
 - Number of grants: ~30
-- Grant size: $5-50k
+- Compensation
+    - Grant size: $5-50k
+    - SAFE token retroactive grant to be determined 
     - Up-front payments
         - May request an initial amount.
         - Cannot exceed 20% of the total requested amount (Unless the grant is < 3 months)
@@ -151,12 +163,14 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
 - Timelines
     - Reviewed weekly
     - Approved monthly
+    - Deliverable timeframe: 4 months
+    - Review and next cycle planning: 2 months
 - Milestones required
     - Tracks the progress of the grant
     - *Benchmark* milestones: Progress
     - *Critical* milestones: Outcomes
 
-<p style="text-align: center; font-style: italic">This content is not financial, technical, or legal advice. Always consult a financial professional and do your own research.</p>
+<p style="text-align: center; font-style: italic">This is not financial, technical, or legal advice. Consult professionals and do your own research.</p>
 
 <style>
     .markdown-body h1 {
