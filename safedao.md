@@ -9,6 +9,10 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
 
 # About
 
+#### Safe Ecosystem Foundation (SEF) docs
+
+- [SafeDAO Governance Hub](https://safe-global.notion.site/SafeDAO-Governance-Hub-6a7368cc72554c8d94b05fcc47f246d5)
+
 #### Mission
 
 - Bring digital ownership to everyone by building a universal and open smart contract standard for custody of digital assets, data, and identity with the [Safe](https://docs.google.com/document/d/1IiCJ2WESRO23kNCxWRKTz3nVysqOBuxnmuIVTL9JK04/edit#heading=h.e63zvmii9ax5) ecosystem.
