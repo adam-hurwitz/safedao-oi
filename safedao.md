@@ -45,9 +45,16 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
 
 ## Vote
 
-- Vote: [snapshot.org/#/safe.eth](https://snapshot.org/#/safe.eth)
+- Sites
+    - [snapshot.org/#/safe.eth](https://snapshot.org/#/safe.eth)
+    - [snapshot.org/#/grants.safe.eth](https://snapshot.org/#/grants.safe.eth)
+- About
     - Start/end dates displayed are in local time depending on the machine's settings.
     - [DAO settings](https://snapshot.org/#/safe.eth/settings): Voting strategies, quorum, and etc.
+- Voting with a Safe account
+    1. Vote directly from the Safe app: [app.safe.global](https://app.safe.global)
+    2. Go to *Apps* > *Snapshot* > Vote with your Safe account.
+    3. Approve the required threshold for your Safe account.
 - Total voting power: Includes vested and unclaimed and unvested tokens.
     - There's no need to claim new tokens that have vested in order to increase voting power.
 - Original holder can override a [delegate](#Delegate) by voting on a proposal
