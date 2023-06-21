@@ -39,16 +39,21 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
 
 ## Claim SAFE tokens
 
-- *See [$SAFE Claiming App FAQ](https://help.gnosis-safe.io/en/articles/6592549-safe-claiming-app-faq) by Gnosis*
-- Claim: [https://gnosis-safe.io/app/share/safe-app?appUrl=https://apps.gnosis-safe.io/safe-claiming-app&chainId=1](https://gnosis-safe.io/app/share/safe-app?appUrl=https://apps.gnosis-safe.io/safe-claiming-app&chainId=1)
-    - If delegating: Save your delegates ETH address on the _Choose a delegate_ step, to see how the delegate votes on future proposals.
-    - Claim address sample: `https://gnosis-safe.io/app/eth:{Your-Adresss-Here}/apps?appUrl=https://apps.gnosis-safe.io/safe-claiming-app`
+- Claim (Onchain transaction): [app.safe.global](https://app.safe.global) > Connect account (Top-right) > Select account (Left navigation menu) > *Your voting power* > Select *Delegating to* > Select *Claim Safe Tokens*
+    - Claim vested tokens as they become available
+ - If [delegating](#Delegate): Save your delegates ETH address on the *Choose a delegate* step to see how the delegate votes on future proposals.
 
 ## Vote
 
 - Vote: [snapshot.org/#/safe.eth](https://snapshot.org/#/safe.eth)
     - Start/end dates displayed are in local time depending on the machine's settings.
     - [DAO settings](https://snapshot.org/#/safe.eth/settings): Voting strategies, quorum, and etc.
+- Total voting power: Includes vested and unclaimed and unvested tokens.
+    - There's no need to claim new tokens that have vested in order to increase voting power.
+- Original holder can override a [delegate](#Delegate) by voting on a proposal
+    - Default of [Snapshot voting](https://hackmd.io/@openinfo/daos#Snapshot-voting)
+    - Order of votes doesn't matter
+    - *See [SafeDAO Governance Hub](https://safe-global.notion.site/SafeDAO-Governance-Hub-6a7368cc72554c8d94b05fcc47f246d5) > [Delegation](https://safe-global.notion.site/Delegation-ce8deecb409349d2a2785b505b9d5e86)*
 - Temperature check: [snapshot.org/#/safegov.eth](https://snapshot.org/#/safegov.eth)
 
 
@@ -92,9 +97,6 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
 - Delegate voting power of SAFE tokens to someone else
 - Can only delegate to one person
 - Delegation is editable
-- Original holder can override the delegate by voting on a proposal
-    - Default of [Snapshot voting](https://docs.google.com/document/d/109xrmTFRvI1nBPEOKb8O2sunNJ7HkENNqVM_8t3804E/edit#heading=h.kxrv21yuw2ug)
-    - Order of votes doesn't matter
 
 ### Delegate
 
