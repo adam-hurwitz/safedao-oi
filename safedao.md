@@ -171,6 +171,7 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
 
 #### Grants
 
+- *See [Safe Grants](https://safe-global.notion.site/Safe-Grants-7a14a7403f1f44f0bfb236a7521dac91) by SEF*
 - Number of grants: ~30
 - Compensation
     - Grant size: $5-50k
