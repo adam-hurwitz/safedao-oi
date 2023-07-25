@@ -23,6 +23,7 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
 - Twitter: [@safe](https://twitter.com/safe) and [@safegovernance](https://twitter.com/safegovernance)
 - Forum: [forum.gnosis-safe.io](https://forum.gnosis-safe.io)
 - Safe Discord: [discord.com/invite/TwzFWhDSrW](https://discord.com/invite/TwzFWhDSrW)
+- Safe builders Telegram: [t.me/+uJZdneB_8zkxNGMy](https://t.me/+uJZdneB_8zkxNGMy)
 - Blog: [safe.mirror.xyz](https://safe.mirror.xyz)
 
 
