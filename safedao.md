@@ -191,6 +191,33 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
     - *Benchmark* milestones: Progress
     - *Critical* milestones: Outcomes
 
+# AAccelerator program
+
+### About
+
+- 5 projects building on AA + Safe{Core} will join a 12 week program to incubate their startup
+- In partnership with LongHash Ventures
+- Benefits
+    - $200,000 funding per team
+    - Web3-native curriculum, workshops, and support
+    - Mentor office hour sessions 
+    - Demo day pitch to investors
+
+#### Resources
+
+- [Introducing Safe{AAccelerator} a turbo boost for builders in the Transition to Smart Accounts](https://safe.mirror.xyz/K9g56CNpDzWjONYDDdSgD-h4AtXQBHH_TsltCOwrVO0) *by Safe Ecosystem Foundation*
+- [Application](https://longhashventures.typeform.com/safecohort?typeform-source=forum.safe.global)
+- [LongHash Ventures FAQ Sessions](https://calendly.com/d/yyk-ty3-bdk/lhx-faq-sessions?month=2023-08&date=2023-08-01)
+
+# Safe builders’ fellowship program
+
+- *See [Introducing Safe{AAccelerator} a turbo boost for builders in the Transition to Smart Accounts](https://safe.mirror.xyz/K9g56CNpDzWjONYDDdSgD-h4AtXQBHH_TsltCOwrVO0)*
+- 20-25 projects
+- Benefits
+    - Technical and developer support from Safe
+    - Access to workshops and fireside chats
+    - Mentor office hour sessions
+
 <p style="text-align: center; font-style: italic">This is not financial, technical, or legal advice. Consult professionals and do your own research.</p>
 
 <style>
