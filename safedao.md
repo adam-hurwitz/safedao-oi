@@ -11,6 +11,7 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
 
 #### Safe Ecosystem Foundation (SEF) docs
 
+- Site: [safe.global/governance](https://safe.global/governance)
 - [SafeDAO Governance Hub](https://safe-global.notion.site/SafeDAO-Governance-Hub-6a7368cc72554c8d94b05fcc47f246d5)
 
 #### Mission
