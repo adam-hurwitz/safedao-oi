@@ -32,12 +32,14 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
 
 **Mission** – Coordinate on initiatives that help further the goals of the Safe ecosystem.
 
-## Proposals
+## Safe ecosystem proposals (SEPs)
 
 - Safe Ecosystem Proposal (SEP)
 - Creating a Snapshot proposal requires 20,000 SAFE tokens
 - [[HOW TO] SafeDAO Governance Process](https://forum.gnosis-safe.io/t/how-to-safedao-governance-process/846)
-- [[Template] Safe Ecosystem Proposal Template](https://forum.gnosis-safe.io/t/template-safe-ecosystem-proposal-template/845)
+- [[Template] Safe Ecosystem Proposal (Season 1)](https://forum.safe.global/t/template-safe-ecosystem-proposal-season-1/4375)
+    - Optional for phase 0
+    - Required for phase 1
 
 ## Claim SAFE tokens
 
