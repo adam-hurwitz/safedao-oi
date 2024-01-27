@@ -27,6 +27,14 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
 - Safe builders Telegram: [t.me/+uJZdneB_8zkxNGMy](https://t.me/+uJZdneB_8zkxNGMy)
 - Blog: [safe.mirror.xyz](https://safe.mirror.xyz)
 
+#### Calendar
+
+- [Public URL](https://calendar.google.com/calendar/embed?src=c_547fe085bcb8ca03492e7427fe6c5a58d95c08aeb627c0ceb35c19a0c1450c83%40group.calendar.google.com&ctz=America%2FNew_York)
+- Auto sync events in your Google calendar
+    1. Open [calendar.google.com](https://calendar.google.com)
+    2. Open the left navigation menu if it's not already open: Select the 3 horizontal lines menu button in the top-left corner
+    3. Add a new calendar: "Other calendars" section > Select "Add other calendars" (<kbd>+</kbd> button) > "Subscribe to calendar" > Copy and paste the "Calendar ID" and select the autopopulated search result: `c_547fe085bcb8ca03492e7427fe6c5a58d95c08aeb627c0ceb35c19a0c1450c83@group.calendar.google.com`
+
 
 # Governance
 
